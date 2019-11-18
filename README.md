@@ -6,4 +6,4 @@ This repo contains a bash script named “cars.sh” that will help a user maint
 2. List the cars in the inventory file in order of year
 3. Quit
 
-If they choose to add a *new car* they will be prompted for the year, make, and model.
+If they choose to add a **new car** they will be prompted for the *year*, *make*, and *model*.
