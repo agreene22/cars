@@ -3,6 +3,8 @@ This repo contains a bash script named “cars.sh” that will help a user maint
  
  The user will be presented with a menu of three options:
 1. Add a new car to the file
+> Prompted for specifc input
+> Must be able to read input and add to the file
 2. List the cars in the inventory file in order of year
 3. Quit
 
